@@ -12,4 +12,4 @@ Caso não tenha o módulo do node `serve` instalado, instale-o com o comando:
 
 Após finalizar a instalação, execute o comando `serve -s build`.
 
-Abra o Open [http://localhost:5000](http://localhost:5000) para visualizar o componente.
+Abra o [http://localhost:5000](http://localhost:5000) para visualizar o componente.
