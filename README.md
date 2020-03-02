@@ -6,10 +6,7 @@ Projeto desenvolvido para treinar a construção de componentes utilizando React
 
 Acesse a pasta raiz do projeto e abra um terminal
 
-Caso não tenha o módulo do node `serve` instalado, instale-o com o comando:
+Utilize o comando a seguir para iniciar um servidor local:
+### `npm start`
 
-### `npm i serve -g`
-
-Após finalizar a instalação, execute o comando `serve -s build`.
-
-Abra o [http://localhost:5000](http://localhost:5000) para visualizar o componente.
+Caso não abra automaticamente, acesse o endereço [http://localhost:3000](http://localhost:3000) para visualizar o componente.
